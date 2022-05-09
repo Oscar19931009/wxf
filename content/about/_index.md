@@ -37,7 +37,7 @@ full_name: Xiafei Wang
 headless: true
 interests:
 - Data Intensive Systems
-- 读书，研究R语言
+- 读书
 - Distributed Systems
 - Data Streaming Platforms
 - Large-Scale Data Processing Platforms
